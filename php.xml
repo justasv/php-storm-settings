@@ -4,6 +4,7 @@
       <interpreter home="/usr/bin/php" id="02b5982a-18d9-45fd-a7bc-85ee06330306" name="PHP 7" debugger_id="php.debugger.XDebug" />
       <interpreter home="$USER_HOME$/projects/oxyleads-api/bin/behat" id="7803542c-d643-4c8a-acba-f6cae1a4c7f3" name="Behat" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/local/Cellar/php71/7.1.4_16/bin/php" id="8087cac8-ff33-4105-ae41-04e59e3a4484" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/Cellar/php/7.2.3/bin/php" id="09a3a585-0696-486c-8578-0a93ee47e4a5" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
