@@ -150,7 +150,7 @@
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'⌥⌘M'</ShortCut>
           <Description>Method...</Description>
-          <Count>59</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
