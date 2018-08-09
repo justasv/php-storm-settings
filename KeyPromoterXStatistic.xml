@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'li-api'">
@@ -54,6 +54,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'li-api'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'limitator'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'limitator'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -110,7 +118,7 @@
           <IdeaActionID>ChooseDebugConfiguration</IdeaActionID>
           <ShortCut>'⌃⌥D'</ShortCut>
           <Description>Debug...</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -278,7 +286,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'limitator'</Description>
-          <Count>8</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'mailmerge'">
@@ -342,7 +350,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>832</Count>
+          <Count>928</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -382,7 +390,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>125</Count>
+          <Count>127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -390,7 +398,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>128</Count>
+          <Count>130</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -422,7 +430,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'limitator'</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'mailmerge'">
@@ -454,7 +462,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'paymentsv2'</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'phpunit'">
@@ -510,7 +518,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>327</Count>
+          <Count>350</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
