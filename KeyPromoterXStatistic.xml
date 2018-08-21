@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'li-api'">
@@ -206,7 +206,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>78</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Method...">
@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>101</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -305,6 +305,14 @@
           <Count>22</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'mailgen'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'mailgen'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'mailmerge'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -366,7 +374,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1319</Count>
+          <Count>1350</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -447,6 +455,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'limitator'</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'mailgen'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'mailgen'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'mailmerge'">
@@ -534,7 +550,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>437</Count>
+          <Count>447</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
