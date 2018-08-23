@@ -142,7 +142,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>104</Count>
+          <Count>105</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate Watch">
