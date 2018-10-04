@@ -390,7 +390,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'prospector'</Description>
-          <Count>78</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'raw_api'">
@@ -422,7 +422,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>2803</Count>
+          <Count>2813</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -462,7 +462,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>222</Count>
+          <Count>224</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -470,7 +470,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>158</Count>
+          <Count>162</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -478,7 +478,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>30</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'docker'">
@@ -606,7 +606,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>841</Count>
+          <Count>851</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
