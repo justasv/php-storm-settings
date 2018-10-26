@@ -310,7 +310,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>896</Count>
+          <Count>900</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -630,7 +630,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>920</Count>
+          <Count>921</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
