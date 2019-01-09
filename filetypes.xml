@@ -6,6 +6,7 @@
       <mapping pattern="phpcs" type="PHP" />
       <mapping pattern="ActionBodyValidatorTrait" type="PHP" />
       <mapping pattern="PersonPosition" type="PHP" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="MailmergeEnrichStatisticsPreSerializeSubscriber.php" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
