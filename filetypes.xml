@@ -10,6 +10,7 @@
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="MailmergeEnrichStatisticsPreSerializeSubscriber.php" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern=".Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.test.dist" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="countries.feature" type="PLAIN_TEXT" />
