@@ -334,7 +334,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>1026</Count>
+          <Count>1027</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
