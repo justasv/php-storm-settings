@@ -470,7 +470,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3589</Count>
+          <Count>3591</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -678,7 +678,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1247</Count>
+          <Count>1248</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
