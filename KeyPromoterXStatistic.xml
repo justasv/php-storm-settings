@@ -470,7 +470,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3591</Count>
+          <Count>3592</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
