@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>210</Count>
+          <Count>211</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -294,7 +294,7 @@
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'⌥⌘M'</ShortCut>
           <Description>Method...</Description>
-          <Count>131</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
