@@ -470,7 +470,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3756</Count>
+          <Count>3757</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -534,7 +534,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>165</Count>
+          <Count>174</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'dashboard-api'">
@@ -542,7 +542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'dashboard-api'</Description>
-          <Count>126</Count>
+          <Count>127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'docker'">
