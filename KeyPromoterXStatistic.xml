@@ -366,7 +366,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'dashboard-api'</Description>
-          <Count>200</Count>
+          <Count>210</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'docker'">
@@ -470,7 +470,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3849</Count>
+          <Count>3900</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -518,7 +518,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>333</Count>
+          <Count>337</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -526,7 +526,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>261</Count>
+          <Count>263</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -534,7 +534,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>188</Count>
+          <Count>190</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'dashboard-api'">
@@ -542,7 +542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'dashboard-api'</Description>
-          <Count>137</Count>
+          <Count>147</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'docker'">
@@ -678,7 +678,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1421</Count>
+          <Count>1432</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
