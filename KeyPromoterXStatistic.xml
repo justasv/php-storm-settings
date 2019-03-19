@@ -366,7 +366,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'dashboard-api'</Description>
-          <Count>219</Count>
+          <Count>221</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'docker'">
@@ -470,7 +470,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3907</Count>
+          <Count>3915</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -526,7 +526,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>263</Count>
+          <Count>272</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -542,7 +542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'dashboard-api'</Description>
-          <Count>150</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'docker'">
@@ -678,7 +678,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1444</Count>
+          <Count>1447</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
