@@ -310,7 +310,7 @@
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'⌥⌘M'</ShortCut>
           <Description>Method...</Description>
-          <Count>151</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -510,7 +510,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4168</Count>
+          <Count>4169</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -638,7 +638,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ok-dashboard-api'</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'oxyleads-api'">
@@ -726,7 +726,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1569</Count>
+          <Count>1571</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
