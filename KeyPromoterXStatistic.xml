@@ -494,7 +494,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ping-api'</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'prospector'">
@@ -695,6 +695,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'phpunit'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ping-api'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ping-api'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'prospector'">
