@@ -470,7 +470,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ok-dashboard-api'</Description>
-          <Count>82</Count>
+          <Count>87</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'oxyleads-api'">
@@ -542,7 +542,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4329</Count>
+          <Count>4365</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -590,7 +590,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>364</Count>
+          <Count>365</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -598,7 +598,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>303</Count>
+          <Count>311</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -606,7 +606,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>211</Count>
+          <Count>216</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'dashboard-api'">
@@ -670,7 +670,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ok-dashboard-api'</Description>
-          <Count>63</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'oxyleads-api'">
@@ -734,7 +734,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'⌘7'</ShortCut>
           <Description>Structure</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -766,7 +766,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1684</Count>
+          <Count>1696</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
