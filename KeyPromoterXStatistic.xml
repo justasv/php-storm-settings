@@ -470,7 +470,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ok-dashboard-api'</Description>
-          <Count>87</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'oxyleads-api'">
@@ -542,7 +542,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4365</Count>
+          <Count>4366</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -670,7 +670,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ok-dashboard-api'</Description>
-          <Count>64</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'oxyleads-api'">
@@ -766,7 +766,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1696</Count>
+          <Count>1697</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
