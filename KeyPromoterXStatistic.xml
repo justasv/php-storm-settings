@@ -241,6 +241,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Exclude">
+        <Item>
+          <IdeaActionID>UsageView.Exclude</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Exclude</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Exit Full Screen">
         <Item>
           <IdeaActionID>ToggleFullScreen</IdeaActionID>
