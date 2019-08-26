@@ -150,7 +150,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ok-dashboard-api'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'oxyleads-api'">
@@ -478,7 +478,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ok-dashboard-api'</Description>
-          <Count>104</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'oxyleads-api'">
@@ -550,7 +550,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4406</Count>
+          <Count>4414</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -606,7 +606,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>372</Count>
+          <Count>373</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -614,7 +614,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>315</Count>
+          <Count>316</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -622,7 +622,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>216</Count>
+          <Count>217</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'dashboard-api'">
@@ -686,7 +686,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ok-dashboard-api'</Description>
-          <Count>80</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'oxyleads-api'">
@@ -782,7 +782,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1717</Count>
+          <Count>1721</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
