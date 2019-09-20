@@ -20,8 +20,8 @@
       <mapping pattern="create_website" type="PLAIN_TEXT" />
       <mapping pattern="countries.feature" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
-      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="MailmergeEnrichStatisticsPreSerializeSubscriber.php" type="PLAIN_TEXT" />
       <mapping pattern=".env.test.dist" type="PLAIN_TEXT" />
@@ -29,6 +29,7 @@
       <mapping ext="sccs" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping pattern="results" type="SCSS" />
+      <mapping pattern="countPoolSize" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
