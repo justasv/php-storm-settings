@@ -318,7 +318,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>160</Count>
+          <Count>162</Count>
         </Item>
       </Statistic>
       <Statistic Action="Method...">
@@ -382,7 +382,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>227</Count>
+          <Count>229</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -542,7 +542,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>63</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
