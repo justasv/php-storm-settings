@@ -6,16 +6,17 @@
       <mapping pattern="PersonPosition" type="PHP" />
       <mapping pattern="ActionBodyValidatorTrait" type="PHP" />
       <mapping pattern="phpcs" type="PHP" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="MailmergeEnrichStatisticsPreSerializeSubscriber.php" type="PLAIN_TEXT" />
       <mapping pattern="create_website" type="PLAIN_TEXT" />
-      <mapping pattern="countries.feature" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern=".Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="decrementGroupCounter.lua" type="PLAIN_TEXT" />
       <mapping pattern=".env.test.dist" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="countries.feature" type="PLAIN_TEXT" />
       <mapping ext="sccs" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping pattern="results" type="SCSS" />
