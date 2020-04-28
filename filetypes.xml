@@ -21,7 +21,9 @@
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping pattern="results" type="SCSS" />
       <mapping pattern="countPoolSize" type="TypeScript" />
+      <mapping ext="development" type="YAML" />
       <mapping ext="production" type="YAML" />
+      <mapping ext="test" type="YAML" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
